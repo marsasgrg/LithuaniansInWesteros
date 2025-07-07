@@ -1,0 +1,12 @@
+82140 = {
+	name = "Palemon"
+	dynasty = 9116
+	religion = "baltic_pagan"
+	culture = "lithuanian"
+	825.1.1 = {
+		birth = "825.1.1"
+	}
+	890.1.1 = {
+		death = "890.1.1"
+	}
+}

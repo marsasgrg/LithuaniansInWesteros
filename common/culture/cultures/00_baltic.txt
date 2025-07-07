@@ -1,0 +1,34 @@
+﻿lithuanian = {
+	color = lithuanian
+	
+	ethos = ethos_bellicose
+	heritage = heritage_first_man
+	language = language_old_tongue
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		agot_tradition_wildling
+		tradition_sacred_groves
+		tradition_hit_and_run
+		tradition_zealous_people
+	}
+	dlc_tradition = {
+		trait = tradition_mpo_northern_tribes
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	name_list = name_list_lithuanian
+	
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		80 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		3 = caucasian_northern_brown_hair
+		2 = caucasian_northern_dark_hair
+	}
+	parents = { first_man }
+	created = 300.1.1
+}
