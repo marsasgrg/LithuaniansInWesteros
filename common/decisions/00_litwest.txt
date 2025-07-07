@@ -7,13 +7,14 @@ claim_palemonid_legacy = {
 	ai_check_interval = 60
 
     is_shown = {       
-         NOT={
+        NOT={
             house = character:82140.house
+             exists = father
         }
 		is_playable_character = yes
 		exists = house
 		exists = house.house_head
-
+       
 		NOR = {
 			government_has_flag = government_is_holy_order
 			government_has_flag = government_is_theocracy
@@ -33,5 +34,13 @@ claim_palemonid_legacy = {
         set_house  = character:82140.house
         save_scope_as = tree_root
         find_descendants_effect = yes
+        if = {
+			limit = {
+				government_allows = administrative
+				highest_held_title_tier >= tier_duchy
+			}
+			create_noble_family_effect = yes
+			change_influence = major_influence_gain
+		}
     }
 }
