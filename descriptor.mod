@@ -6,5 +6,6 @@ dependencies={
 	"A Game of Thrones"
 }
 name="Lithuanians In Westeros???"
-supported_version="1.16.*"
 picture="thumbnail.png"
+supported_version="1.16.*"
+remote_file_id="3519360364"
