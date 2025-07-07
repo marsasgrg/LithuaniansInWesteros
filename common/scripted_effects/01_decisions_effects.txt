@@ -1,0 +1,17 @@
+find_descendants_effect = {
+    every_child = {
+        even_if_dead = yes
+        
+
+       if = {
+            limit = {
+                 dynasty = scope:tree_root.dynasty 
+            }
+            set_house  = character:82140.house
+
+        }
+
+        # then recurse
+        find_descendants_effect = yes
+    }
+}

@@ -1,0 +1,37 @@
+claim_palemonid_legacy = {
+    picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+	}
+
+	decision_group_type = major
+	ai_check_interval = 60
+
+    is_shown = {       
+         NOT={
+            house = character:82140.house
+        }
+		is_playable_character = yes
+		exists = house
+		exists = house.house_head
+
+		NOR = {
+			government_has_flag = government_is_holy_order
+			government_has_flag = government_is_theocracy
+			AND = {
+				faith = { has_doctrine = doctrine_theocracy_temporal }
+				has_council_position = councillor_court_chaplain
+			}
+		}
+        has_culture = culture:lithuanian
+	}
+    is_valid = {
+
+        is_house_head = yes
+    }
+    effect = {
+        set_father = character:82140
+        set_house  = character:82140.house
+        save_scope_as = tree_root
+        find_descendants_effect = yes
+    }
+}

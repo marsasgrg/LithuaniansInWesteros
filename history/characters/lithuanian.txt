@@ -1,7 +1,7 @@
 82140 = {
 	name = "Palemon"
 	dynasty = 9116
-	religion = "baltic_pagan"
+	religion = "old_gods_btw_pnv"
 	culture = "lithuanian"
 	825.1.1 = {
 		birth = "825.1.1"
