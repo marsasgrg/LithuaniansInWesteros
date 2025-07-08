@@ -9,5 +9,9 @@ lithuanians_emerge = {
         struggle:btw_struggle = {
             set_culture_as_involved = culture:lithuanian
         }
+		culture:lithuanian = {
+
+			set_variable = wildling_culture
+		}
 	}
 }
