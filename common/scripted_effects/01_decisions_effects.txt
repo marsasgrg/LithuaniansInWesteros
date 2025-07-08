@@ -1,4 +1,5 @@
 find_descendants_effect = {
+
     every_child = {
         even_if_dead = yes
             
@@ -7,20 +8,19 @@ find_descendants_effect = {
             limit = {
                 house = scope:tree_root.house
             }
-            set_house  = $NEW_HOUSE$
-            if{
+            set_house  =  character:82140.house
+            if = {
                 limit = {
                     is_alive = yes
                     is_landed = yes
                 }
-                every_held_title = { set_coa = $NEW_HOUSE$.coa }
+                every_held_title = { set_coa = character:82140.house.coa }
             }
             
         }
 
         # then recurse
-        find_descendants_effect = {
-            NEW_HOUSE = $NEW_HOUSE$
-        }
+        find_descendants_effect = yes
     }
+    
 }

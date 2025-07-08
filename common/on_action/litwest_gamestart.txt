@@ -6,9 +6,6 @@ on_game_start = {
 
 lithuanians_emerge = {
 	effect = {
-		startup_culture_effect = { CULTURE = culture:lithuanian  }
-		culture:lithuanian = { culture_become_alive_effect = yes }
-
         struggle:btw_struggle = {
             set_culture_as_involved = culture:lithuanian
         }

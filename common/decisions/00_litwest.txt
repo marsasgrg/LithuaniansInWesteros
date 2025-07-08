@@ -32,9 +32,8 @@ claim_palemonid_legacy = {
         set_father = character:82140
         set_house  = character:82140.house
         save_scope_as = tree_root
-        find_descendants_effect = {
-			NEW_HOUSE = character:82140.house
-		}
+        find_descendants_effect = yes
+		every_held_title = { set_coa = character:82140.house.coa }
         if = {
 			limit = {
 				government_allows = administrative
@@ -48,7 +47,9 @@ claim_palemonid_legacy = {
 
 # ADAPTED FROM POLES IN EK2
 bring_lithuania_to_westeros = {
-	picture = "gfx/interface/illustrations/decisions/ai_decision_title_drift.dds"
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+	}
 	decision_group_type = major
 	ai_check_interval = 120
 	is_shown = {
@@ -57,7 +58,7 @@ bring_lithuania_to_westeros = {
 		}
 	}
 	is_valid = {
-		prestige_level >= 3
+		prestige_level >= 3 #CHANGE TO 3 ON NON DEBUG
 		is_independent_ruler = yes
 		capital_county.de_jure_liege.de_jure_liege = {
 			save_temporary_scope_as = kingdom_check
@@ -88,6 +89,9 @@ bring_lithuania_to_westeros = {
 				name = lithuania_kingdom_complete_boolean
 				value = 1
 			}
+		}
+		title:k_lithuania = {
+			set_de_jure_liege_title = scope:original_empire
 		}
 		#Event for the new King
 		trigger_event = litwest.0001
