@@ -26,14 +26,15 @@ claim_palemonid_legacy = {
         has_culture = culture:lithuanian
 	}
     is_valid = {
-
         is_house_head = yes
     }
     effect = {
         set_father = character:82140
         set_house  = character:82140.house
         save_scope_as = tree_root
-        find_descendants_effect = yes
+        find_descendants_effect = {
+			NEW_HOUSE = character:82140.house
+		}
         if = {
 			limit = {
 				government_allows = administrative

@@ -5,13 +5,15 @@ find_descendants_effect = {
 
        if = {
             limit = {
-                 dynasty = scope:tree_root.dynasty 
+                house = scope:tree_root.house
             }
-            set_house  = character:82140.house
+            set_house  = $NEW_HOUSE$
 
         }
 
         # then recurse
-        find_descendants_effect = yes
+        find_descendants_effect = {
+            NEW_HOUSE = $NEW_HOUSE$
+        }
     }
 }
