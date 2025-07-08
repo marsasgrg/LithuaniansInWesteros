@@ -1,0 +1,86 @@
+namespace = litwest 
+
+#Event for creating Lithuania
+litwest.0001 = {
+	type = character_event
+	title = litwest.0001.t
+	desc = litwest.0001.desc
+	theme = martial
+	
+	left_portrait = {
+		character = root
+	}
+	
+	immediate = {
+		title:k_lithuania.holder = { save_scope_as = new_lithuania_king }
+	}
+
+	option = {
+		name = litwest.0001.option
+		
+		if = {
+			#If you turned a whole Kingdom into Lithuania
+			limit = { title:k_lithuania = { has_variable = lithuania_kingdom_complete_boolean } }
+			
+			#Destroys the original (non-Lithuania) kingdom
+			destroy_title = scope:original_kingdom
+			
+			#Makes the original kingdom's duchies a de jure part of Lithuania
+			every_duchy = {
+				limit = { de_jure_liege = scope:original_kingdom }
+				set_de_jure_liege_title = title:k_lithuania
+			}
+			
+			#If the original kingdom's empire had a holder, give him a claim
+			if = {
+				limit = { exists = scope:original_empire.holder }
+				scope:original_empire.holder = { add_pressed_claim = title:k_lithuania }
+			}
+			
+			#Gives Poland a new capital
+			title:k_lithuania = { set_capital_county = scope:original_kingdom.title_capital_county }
+		}
+		
+		if = {
+			#If you turned a single Duchy into Lithuania
+			limit = { NOT = { title:k_lithuania = { has_variable = lithuania_kingdom_complete_boolean } } }
+			
+			#Makes it de jure part of Lithuania
+			scope:original_duchy = { set_de_jure_liege_title = title:k_lithuania }
+			
+			#If the duchy's kingdom had a holder, give him a claim
+			if = {
+				limit = { exists = scope:original_kingdom.holder }
+				scope:original_kingdom.holder = { add_pressed_claim = scope:original_duchy }
+			}
+			
+			#Gives Poland a new capital
+			title:k_lithuania = { set_capital_county = scope:original_duchy.title_capital_county }
+		}
+	}
+	
+	after = {
+		#Mark Lithuania's original kingdom and empire
+		scope:original_kingdom = {
+			set_variable = {
+				name = lithuania_original_kingdom_boolean
+				value = 1
+			}
+		}
+		scope:original_empire = {
+			set_variable = {
+				name = lithuania_original_empire_boolean
+				value = 1
+			}
+		}
+		
+		#Let other rulers know about it (only matters for players)
+		#every_ruler = { 
+	#		limit = { 
+	#			NOT = { has_title = title:k_lithuania }
+	#			is_ai = no
+	#		}
+	#		trigger_event = { id = litwest.0002 days = 1 }
+	#	}
+	}
+}

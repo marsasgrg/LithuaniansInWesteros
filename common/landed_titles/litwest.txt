@@ -1,0 +1,47 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+# Lithuania - formable via decision
+e_commonwealth = {
+    # not yet available
+	color = { 90 10 0 }
+	
+
+	capital = c_kings_landing 
+	can_be_named_after_dynasty = no
+	ignore_titularity_for_title_weighting = yes			
+    ai_primary_priority = {
+        if = {
+            limit = {
+                culture = culture:lithuanian
+            }
+            add = @correct_culture_primary_score
+        }
+    }
+    
+    can_create = {
+        always = no
+    }
+	
+	k_lithuania = {
+		color = { 90 10 0 }
+
+		capital = c_kings_landing
+		can_be_named_after_dynasty = no
+		ignore_titularity_for_title_weighting = yes			
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:lithuanian
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+		
+		can_create = {
+			culture = culture:lithuanian
+		}
+		
+	}
+}

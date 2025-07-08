@@ -1,14 +1,21 @@
 find_descendants_effect = {
     every_child = {
         even_if_dead = yes
-        
+            
 
-       if = {
+        if = {
             limit = {
                 house = scope:tree_root.house
             }
             set_house  = $NEW_HOUSE$
-
+            if{
+                limit = {
+                    is_alive = yes
+                    is_landed = yes
+                }
+                every_held_title = { set_coa = $NEW_HOUSE$.coa }
+            }
+            
         }
 
         # then recurse

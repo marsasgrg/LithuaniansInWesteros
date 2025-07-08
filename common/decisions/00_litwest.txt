@@ -45,3 +45,56 @@ claim_palemonid_legacy = {
 		}
     }
 }
+
+# ADAPTED FROM POLES IN EK2
+bring_lithuania_to_westeros = {
+	picture = "gfx/interface/illustrations/decisions/ai_decision_title_drift.dds"
+	decision_group_type = major
+	ai_check_interval = 120
+	is_shown = {
+		NOT={
+			has_global_variable = lithuania_brought
+		}
+	}
+	is_valid = {
+		prestige_level >= 3
+		is_independent_ruler = yes
+		capital_county.de_jure_liege.de_jure_liege = {
+			save_temporary_scope_as = kingdom_check
+		}
+		scope:kingdom_check.holder = root 
+		completely_controls = scope:kingdom_check
+	}
+
+	is_valid_showing_failures_only = {
+		is_alive = yes
+		NOT = { exists = involved_activity }
+		is_imprisoned = no
+	}
+	cost = {
+		prestige = { value = 1500 }
+		gold = { value = 500 }
+	}
+	effect = {
+		#Becomes King of Lithuania
+		get_title = title:k_lithuania
+		#Saves the kingdom that becomes Lithuania
+		capital_county.de_jure_liege.de_jure_liege = { save_scope_as = original_kingdom }
+		#Saves the empire whose kingdom become Lithuania
+		capital_county.de_jure_liege.de_jure_liege.de_jure_liege = { save_scope_as = original_empire }
+		#Marks Lithuania as a complete kingdom (can't expand it via decision)
+		title:k_lithuania = { 
+			set_variable = {
+				name = lithuania_kingdom_complete_boolean
+				value = 1
+			}
+		}
+		#Event for the new King
+		trigger_event = litwest.0001
+		#Set global variable
+		set_global_variable = {
+			name = lithuania_brought
+			value = 1
+		}
+	}
+}
