@@ -9,11 +9,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 228012
-	1175.1.1 = {
-		birth = "1175.1.1"
+	8281.1.1 = {
+		birth = "8281.1.1"
 	}
-	1213.1.1 = {
-		death = "1213.1.1"
+	8319.1.1 = {
+		death = "8319.1.1"
 	}
 }
 
@@ -23,17 +23,17 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125300
-	1195.1.1 = {
-		birth = "1195.1.1"
+	8301.1.1 = {
+		birth = "8301.1.1"
 	}
-	1245.1.1 = {
+	8351.1.1 = {
 		religion = "fots_seven" # orthodox
 	}
-	1251.1.1 = {
+	8357.1.1 = {
 		religion = "fots_seven"
 	}
-	1263.9.12 = {
-		death = "1263.9.12"
+	8369.9.12 = {
+		death = "8369.9.12"
 	}
 }
 
@@ -41,11 +41,11 @@
 	name = "Treniotas"
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1220.1.1 = {
-		birth = "1220.1.1"
+	8326.1.1 = {
+		birth = "8326.1.1"
 	}
-	1264.1.2 = {
-		death = "1264.1.2"
+	8370.1.2 = {
+		death = "8370.1.2"
 	}
 }
 
@@ -55,14 +55,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125301
-	1223.1.1 = {
-		birth = "1223.1.1"
+	8329.1.1 = {
+		birth = "8329.1.1"
 	}
-	1245.1.2 = {
+	8351.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1267.4.23 = {
-		death = "1267.4.23"
+	8373.4.23 = {
+		death = "8373.4.23"
 	}
 }
 
@@ -73,14 +73,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125301
-	1230.1.1 = {
-		birth = "1230.1.1"
+	8336.1.1 = {
+		birth = "8336.1.1"
 	}
-	1245.1.2 = {
+	8351.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1280.1.2 = {
-		death = "1280.1.2"
+	8386.1.2 = {
+		death = "8386.1.2"
 	}
 }
 
@@ -90,11 +90,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125300
-	1190.1.1 = {
-		birth = "1190.1.1"
+	8296.1.1 = {
+		birth = "8296.1.1"
 	}
-	1236.1.2 = {
-		death = "1236.1.2"
+	8342.1.2 = {
+		death = "8342.1.2"
 	}
 }
 
@@ -104,14 +104,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125305
-	1220.1.1 = {
-		birth = "1220.1.1"
+	8326.1.1 = {
+		birth = "8326.1.1"
 	}
-	1250.1.1 = {
+	8356.1.1 = {
 		religion = "fots_seven"
 	}
-	1264.1.2 = {
-		death = "1264.1.2"
+	8370.1.2 = {
+		death = "8370.1.2"
 	}
 }
 
@@ -122,14 +122,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125305
-	1230.1.1 = {
-		birth = "1230.1.1"
+	8336.1.1 = {
+		birth = "8336.1.1"
 	}
-	1250.1.1 = {
+	8356.1.1 = {
 		religion = "fots_seven" # orthodox
 	}
-	1280.1.2 = {
-		death = "1280.1.2"
+	8386.1.2 = {
+		death = "8386.1.2"
 	}
 }
 
@@ -139,11 +139,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 228012
-	1170.1.1 = {
-		birth = "1170.1.1"
+	8276.1.1 = {
+		birth = "8276.1.1"
 	}
-	1230.1.1 = {
-		death = "1230.1.1"
+	8336.1.1 = {
+		death = "8336.1.1"
 	}
 }
 
@@ -153,11 +153,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125308
-	1195.1.1 = {
-		birth = "1195.1.1"
+	8301.1.1 = {
+		birth = "8301.1.1"
 	}
-	1255.1.1 = {
-		death = "1255.1.1"
+	8361.1.1 = {
+		death = "8361.1.1"
 	}
 }
 
@@ -167,11 +167,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125309
-	1220.1.1 = {
-		birth = "1220.1.1"
+	8326.1.1 = {
+		birth = "8326.1.1"
 	}
-	1282.1.1 = {
-		death = "1282.1.1"
+	8388.1.1 = {
+		death = "8388.1.1"
 	}
 }
 
@@ -181,11 +181,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125309
-	1225.1.1 = {
-		birth = "1225.1.1"
+	8331.1.1 = {
+		birth = "8331.1.1"
 	}
-	1285.1.1 = {
-		death = "1285.1.1"
+	8391.1.1 = {
+		death = "8391.1.1"
 	}
 }
 
@@ -196,14 +196,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125301
-	1230.1.1 = {
-		birth = "1230.1.1"
+	8336.1.1 = {
+		birth = "8336.1.1"
 	}
-	1265.1.1 = {
+	8371.1.1 = {
 		religion = "fots_seven" # orthodox
 	}
-	1299.1.2 = {
-		death = "1299.1.2"
+	8405.1.2 = {
+		death = "8405.1.2"
 	}
 }
 
@@ -214,14 +214,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125310
-	1260.1.1 = {
-		birth = "1260.1.1"
+	8366.1.1 = {
+		birth = "8366.1.1"
 	}
-	1279.1.1 = {
+	8385.1.1 = {
 		religion = "fots_seven"
 	}
-	1288.1.1 = {
-		death = "1288.1.1"
+	8394.1.1 = {
+		death = "8394.1.1"
 	}
 }
 
@@ -231,11 +231,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125310
-	1250.1.1 = {
-		birth = "1250.1.1"
+	8356.1.1 = {
+		birth = "8356.1.1"
 	}
-	1291.1.2 = {
-		death = "1291.1.2"
+	8397.1.2 = {
+		death = "8397.1.2"
 	}
 }
 
@@ -245,11 +245,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 472352
-	1271.1.1 = {
-		birth = "1271.1.1"
+	8377.1.1 = {
+		birth = "8377.1.1"
 	}
-	1316.1.1 = {
-		death = "1316.1.1"
+	8422.1.1 = {
+		death = "8422.1.1"
 	}
 }
 
@@ -259,11 +259,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1330.1.2 = {
-		birth = "1330.1.2"
+	8436.1.2 = {
+		birth = "8436.1.2"
 	}
-	1386.1.2 = {
-		death = "1386.1.2"
+	8492.1.2 = {
+		death = "8492.1.2"
 	}
 }
 
@@ -273,11 +273,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1333.1.2 = {
-		birth = "1333.1.2"
+	8439.1.2 = {
+		birth = "8439.1.2"
 	}
-	1394.1.2 = {
-		death = "1394.1.2"
+	8500.1.2 = {
+		death = "8500.1.2"
 	}
 }
 
@@ -288,11 +288,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1334.1.2 = {
-		birth = "1334.1.2"
+	8440.1.2 = {
+		birth = "8440.1.2"
 	}
-	1393.1.2 = {
-		death = "1393.1.2"
+	8499.1.2 = {
+		death = "8499.1.2"
 	}
 }
 
@@ -306,11 +306,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 28017	
-	1100.1.1 = {
-		birth = "1100.1.1"
+	8206.1.1 = {
+		birth = "8206.1.1"
 	}
-	1170.1.1 = {
-		death = "1170.1.1"
+	8276.1.1 = {
+		death = "8276.1.1"
 	}
 }
 
@@ -325,11 +325,11 @@
 	culture = "lithuanian"
 	trait = education_intrigue_1
 	father = 228017
-	1200.1.1 = {
-		birth = "1200.1.1"
+	8306.1.1 = {
+		birth = "8306.1.1"
 	}
-	1253.6.30 = {
-		death = "1253.6.30"
+	8359.6.30 = {
+		death = "8359.6.30"
 	}
 }
 
@@ -343,11 +343,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	trait = education_martial_3
-	1039.1.1 = {
-		birth = "1039.1.1"
+	8145.1.1 = {
+		birth = "8145.1.1"
 	}
-	1089.1.1 = {
-		death = "1089.1.1"
+	8195.1.1 = {
+		death = "8195.1.1"
 	}
 }
 
@@ -358,11 +358,11 @@
 	culture = "lithuanian"
 	trait = bastard_founder
 	father = 82198
-	1150.1.1 = {
-		birth = "1150.1.1"
+	8256.1.1 = {
+		birth = "8256.1.1"
 	}
-	1200.1.2 = {
-		death = "1200.1.2"
+	8306.1.2 = {
+		death = "8306.1.2"
 	}
 }
 
@@ -377,11 +377,11 @@
 	culture = "lithuanian"
 	trait = lisping
 	trait = education_learning_2
-	1150.1.1 = {
-		birth = "1150.1.1"
+	8256.1.1 = {
+		birth = "8256.1.1"
 	}
-	1200.1.1 = {
-		death = "1200.1.1"
+	8306.1.1 = {
+		death = "8306.1.1"
 	}
 }
 
@@ -396,11 +396,11 @@
 	culture = "lithuanian"
 	trait = education_intrigue_1
 	father = 144673
-	1150.1.1 = {
-		birth = "1150.1.1"
+	8256.1.1 = {
+		birth = "8256.1.1"
 	}
-	1220.1.1 = {
-		death = "1220.1.1"
+	8326.1.1 = {
+		death = "8326.1.1"
 	}
 }
 
@@ -415,11 +415,11 @@
 	culture = "lithuanian"
 	trait = brave
 	trait = education_martial_3
-	1150.1.1 = {
-		birth = "1150.1.1"
+	8256.1.1 = {
+		birth = "8256.1.1"
 	}
-	1200.1.1 = {
-		death = "1200.1.1"
+	8306.1.1 = {
+		death = "8306.1.1"
 	}
 }
 
@@ -434,11 +434,11 @@
 	culture = "lithuanian"
 	trait = calm
 	trait = education_learning_2
-	1039.1.1 = {
-		birth = "1039.1.1"
+	8145.1.1 = {
+		birth = "8145.1.1"
 	}
-	1089.1.1 = {
-		death = "1089.1.1"
+	8195.1.1 = {
+		death = "8195.1.1"
 	}
 }
 
@@ -452,11 +452,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	trait = education_intrigue_1
-	1050.1.1 = {
-		birth = "1050.1.1"
+	8156.1.1 = {
+		birth = "8156.1.1"
 	}
-	1120.1.1 = {
-		death = "1120.1.1"
+	8226.1.1 = {
+		death = "8226.1.1"
 	}
 }
 
@@ -472,11 +472,11 @@
 	trait = diligent
 	trait = cynical
 	trait = education_intrigue_1
-	1039.1.1 = {
-		birth = "1039.1.1"
+	8145.1.1 = {
+		birth = "8145.1.1"
 	}
-	1089.1.1 = {
-		death = "1089.1.1"
+	8195.1.1 = {
+		death = "8195.1.1"
 	}
 }
 
@@ -487,14 +487,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1309.1.2 = {
-		birth = "1309.1.2"
+	8415.1.2 = {
+		birth = "8415.1.2"
 	}
-	1325.1.2 = {
+	8431.1.2 = {
 		religion = "fots_seven"
 	}
-	1339.1.2 = {
-		death = "1339.1.2"
+	8445.1.2 = {
+		death = "8445.1.2"
 	}
 }
 
@@ -505,14 +505,14 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 472352
-	1292.1.1 = {
-		birth = "1292.1.1"
+	8398.1.1 = {
+		birth = "8398.1.1"
 	}
-	# 1325.1.2 = {
+	# 8431.1.2 = {
 	# 	capital = "c_kiev"
 	# }
-	1362.1.1 = {
-		death = "1362.1.1"
+	8468.1.1 = {
+		death = "8468.1.1"
 	}
 }
 
@@ -522,11 +522,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 472351
-	1305.1.1 = {
-		birth = "1305.1.1"
+	8411.1.1 = {
+		birth = "8411.1.1"
 	}
-	1342.1.1 = {
-		death = "1342.1.1"
+	8448.1.1 = {
+		death = "8448.1.1"
 	}
 }
 
@@ -537,11 +537,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 472352
-	1276.1.1 = {
-		birth = "1276.1.1"
+	8382.1.1 = {
+		birth = "8382.1.1"
 	}
-	1334.1.1 = {
-		death = "1334.1.1"
+	8440.1.1 = {
+		death = "8440.1.1"
 	}
 }
 
@@ -552,11 +552,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 125310
-	1252.1.1 = {
-		birth = "1252.1.1"
+	8358.1.1 = {
+		birth = "8358.1.1"
 	}
-	1295.1.1 = {
-		death = "1295.1.1"
+	8401.1.1 = {
+		death = "8401.1.1"
 	}
 }
 
@@ -567,14 +567,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1317.1.2 = {
-		birth = "1317.1.2"
+	8423.1.2 = {
+		birth = "8423.1.2"
 	}
-	1333.1.2 = {
+	8439.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1345.1.2 = {
-		death = "1345.1.2"
+	8451.1.2 = {
+		death = "8451.1.2"
 	}
 }
 
@@ -585,14 +585,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1305.1.2 = {
-		birth = "1305.1.2"
+	8411.1.2 = {
+		birth = "8411.1.2"
 	}
-	1320.1.2 = {
+	8426.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1348.1.2 = {
-		death = "1348.1.2"
+	8454.1.2 = {
+		death = "8454.1.2"
 	}
 }
 
@@ -604,14 +604,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1316.1.2 = {
-		birth = "1316.1.2"
+	8422.1.2 = {
+		birth = "8422.1.2"
 	}
-	1331.1.2 = {
+	8437.1.2 = {
 		religion = "fots_seven"
 	}
-	1342.1.2 = {
-		death = "1342.1.2"
+	8448.1.2 = {
+		death = "8448.1.2"
 	}
 }
 
@@ -625,14 +625,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 472352
-	1270.1.2 = {
-		birth = "1270.1.2"
+	8376.1.2 = {
+		birth = "8376.1.2"
 	}
-	1287.1.2 = {
+	8393.1.2 = {
 		add_spouse = 473501
 	}
-	1341.5.2 = {
-		death = "1341.5.2"
+	8447.5.2 = {
+		death = "8447.5.2"
 	}
 }
 
@@ -641,11 +641,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1271.1.2 = {
-		birth = "1271.1.2"
+	8377.1.2 = {
+		birth = "8377.1.2"
 	}
-	1294.1.2 = {
-		death = "1294.1.2"
+	8400.1.2 = {
+		death = "8400.1.2"
 	}
 }
 
@@ -656,11 +656,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1314.1.2 = {
-		birth = "1314.1.2"
+	8420.1.2 = {
+		birth = "8420.1.2"
 	}
-	1348.1.2 = {
-		death = "1348.1.2"
+	8454.1.2 = {
+		death = "8454.1.2"
 	}
 }
 
@@ -671,18 +671,18 @@
 	culture = "lithuanian"
 	father = 473500
 	mother = 473501
-	1294.1.2 = {
-		birth = "1294.1.2"
+	8400.1.2 = {
+		birth = "8400.1.2"
 	}
-	1332.1.2 = {
+	8438.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1332.1.2 = {
+	8438.1.2 = {
 		name = "Gleb"
 	# AKA: Narimantas
 	}
-	1348.1.2 = {
-		death = "1348.1.2"
+	8454.1.2 = {
+		death = "8454.1.2"
 	}
 }
 
@@ -694,14 +694,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1296.1.2 = {
-		birth = "1296.1.2"
+	8402.1.2 = {
+		birth = "8402.1.2"
 	}
-	1318.1.2 = {
+	8424.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1377.1.2 = {
-		death = "1377.1.2"
+	8483.1.2 = {
+		death = "8483.1.2"
 	}
 }
 
@@ -711,11 +711,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1315.1.2 = {
-		birth = "1315.1.2"
+	8421.1.2 = {
+		birth = "8421.1.2"
 	}
-	1366.1.2 = {
-		death = "1366.1.2"
+	8472.1.2 = {
+		death = "8472.1.2"
 	}
 }
 
@@ -725,11 +725,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1297.1.2 = {
-		birth = "1297.1.2"
+	8403.1.2 = {
+		birth = "8403.1.2"
 	}
-	1382.1.2 = {
-		death = "1382.1.2"
+	8488.1.2 = {
+		death = "8488.1.2"
 	}
 }
 
@@ -739,11 +739,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1302.1.2 = {
-		birth = "1302.1.2"
+	8408.1.2 = {
+		birth = "8408.1.2"
 	}
-	1363.1.2 = {
-		death = "1363.1.2"
+	8469.1.2 = {
+		death = "8469.1.2"
 	}
 }
 
@@ -753,18 +753,18 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 473500
-	1303.1.2 = {
-		birth = "1303.1.2"
+	8409.1.2 = {
+		birth = "8409.1.2"
 	}
-	1325.1.2 = {
+	8431.1.2 = {
 		religion = "fots_seven" # orthodox
 	}
-	1325.1.2 = {
+	8431.1.2 = {
 		name = "Dmitriy"
 	# AKA: Liubartas
 	}
-	1383.1.2 = {
-		death = "1383.1.2"
+	8489.1.2 = {
+		death = "8489.1.2"
 	}
 }
 
@@ -775,11 +775,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1320.1.2 = {
-		birth = "1320.1.2"
+	8426.1.2 = {
+		birth = "8426.1.2"
 	}
-	1399.1.2 = {
-		death = "1399.1.2"
+	8505.1.2 = {
+		death = "8505.1.2"
 	}
 }
 
@@ -789,11 +789,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1327.1.2 = {
-		birth = "1327.1.2"
+	8433.1.2 = {
+		birth = "8433.1.2"
 	}
-	1399.1.2 = {
-		death = "1399.1.2"
+	8505.1.2 = {
+		death = "8505.1.2"
 	}
 }
 
@@ -803,11 +803,11 @@
 	religion = "fots_seven" # orthodox
 	culture = "lithuanian"
 	father = 473506
-	1331.1.2 = {
-		birth = "1331.1.2"
+	8437.1.2 = {
+		birth = "8437.1.2"
 	}
-	1398.1.2 = {
-		death = "1398.1.2"
+	8504.1.2 = {
+		death = "8504.1.2"
 	}
 }
 
@@ -818,11 +818,11 @@
 	religion = "fots_seven"
 	culture = "lithuanian"
 	father = 473500
-	1300.1.2 = {
-		birth = "1300.1.2"
+	8406.1.2 = {
+		birth = "8406.1.2"
 	}
-	1364.1.2 = {
-		death = "1364.1.2"
+	8470.1.2 = {
+		death = "8470.1.2"
 	}
 }
 
@@ -832,11 +832,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 28012
-	1069.1.1 = {
-		birth = "1069.1.1"
+	8175.1.1 = {
+		birth = "8175.1.1"
 	}
-	1139.1.1 = {
-		death = "1139.1.1"
+	8245.1.1 = {
+		death = "8245.1.1"
 	}
 }
 
@@ -847,11 +847,11 @@
 	culture = "lithuanian"
 	stewardship = 6
 	father = 143134
-	1119.1.1 = {
-		birth = "1119.1.1"
+	8225.1.1 = {
+		birth = "8225.1.1"
 	}
-	1187.1.1 = {
-		death = "1187.1.1"
+	8293.1.1 = {
+		death = "8293.1.1"
 	}
 }
 
@@ -861,14 +861,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 194115
-	825.1.1 = {
-		birth = "825.1.1"
+	7931.1.1 = {
+		birth = "7931.1.1"
 	}
-	850.1.1 = {
+	7956.1.1 = {
 		add_spouse = 82142
 	}
-	890.1.1 = {
-		death = "890.1.1"
+	7996.1.1 = {
+		death = "7996.1.1"
 	}
 }
 
@@ -879,10 +879,10 @@
 	culture = lithuanian
 	father = 194114
 	trait = bastard_founder
-	810.1.1 = {
+	7916.1.1 = {
 		birth = yes
 	}
-	850.1.1 = {
+	7956.1.1 = {
 		death = yes
 	}
 }
@@ -893,13 +893,13 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 6893
-	830.1.1 = {
+	7936.1.1 = {
 		birth = yes
 	}
-	854.1.1 = {
+	7960.1.1 = {
 		add_spouse = 82143
 	}
-	899.1.1 = {
+	8005.1.1 = {
 		death = yes
 	}
 }
@@ -910,10 +910,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 6893
-	833.1.1 = {
+	7939.1.1 = {
 		birth = yes
 	}
-	890.1.1 = {
+	7996.1.1 = {
 		death = yes
 	}
 }
@@ -923,10 +923,10 @@
 	female = yes
 	religion = old_gods_btw_fnf
 	culture = lithuanian
-	837.1.1 = {
+	7943.1.1 = {
 		birth = yes
 	}
-	920.1.1 = {
+	8026.1.1 = {
 		death = yes
 	}
 }
@@ -938,16 +938,16 @@
 	culture = lithuanian
 	father = 82140
 	mother = 82142
-	851.1.1 = {
+	7957.1.1 = {
 		birth = yes
 	}
-	867.1.1 = {
+	7973.1.1 = {
 		add_spouse = 82277
 	}
-	890.1.1 = {
+	7996.1.1 = {
 		add_concubine = 82157
 	}
-	935.1.1 = {
+	8041.1.1 = {
 		death = yes
 	}
 }
@@ -960,10 +960,10 @@
 	culture = lithuanian
 	father = 82140
 	mother = 82142
-	854.1.1 = {
+	7960.1.1 = {
 		birth = yes
 	}
-	939.1.1 = {
+	8045.1.1 = {
 		death = yes
 	}
 }
@@ -976,14 +976,14 @@
 	culture = "lithuanian"
 	father = 82140
 	mother = 82142
-	856.1.1 = {
-		birth = "856.1.1"
+	7962.1.1 = {
+		birth = "7962.1.1"
 	}
-	880.1.1 = {
+	7986.1.1 = {
 		add_spouse = 82151
 	}
-	938.1.1 = {
-		death = "938.1.1"
+	8044.1.1 = {
+		death = "8044.1.1"
 	}
 }
 
@@ -996,11 +996,11 @@
 	culture = "lithuanian"
 	father = 82140
 	mother = 82142
-	858.1.1 = {
-		birth = "858.1.1"
+	7964.1.1 = {
+		birth = "7964.1.1"
 	}
-	930.1.1 = {
-		death = "930.1.1"
+	8036.1.1 = {
+		death = "8036.1.1"
 	}
 }
 
@@ -1012,11 +1012,11 @@
 	culture = "lithuanian"
 	father = 82140
 	mother = 82142
-	860.1.1 = {
-		birth = "860.1.1"
+	7966.1.1 = {
+		birth = "7966.1.1"
 	}
-	928.1.1 = {
-		death = "928.1.1"
+	8034.1.1 = {
+		death = "8034.1.1"
 	}
 
 
@@ -1029,11 +1029,11 @@
 	culture = "lithuanian"
 	father = 82141
 	mother = 82143
-	856.1.1 = {
-		birth = "856.1.1"
+	7962.1.1 = {
+		birth = "7962.1.1"
 	}
-	910.1.1 = {
-		death = "910.1.1"
+	8016.1.1 = {
+		death = "8016.1.1"
 	}
 }
 
@@ -1045,11 +1045,11 @@
 	culture = "lithuanian"
 	father = 82141
 	mother = 82143
-	858.1.1 = {
-		birth = "858.1.1"
+	7964.1.1 = {
+		birth = "7964.1.1"
 	}
-	930.1.1 = {
-		death = "930.1.1"
+	8036.1.1 = {
+		death = "8036.1.1"
 	}
 }
 
@@ -1061,11 +1061,11 @@
 	culture = "lithuanian"
 	father = 82141
 	mother = 82143
-	861.1.1 = {
-		birth = "861.1.1"
+	7967.1.1 = {
+		birth = "7967.1.1"
 	}
-	944.1.1 = {
-		death = "944.1.1"
+	8050.1.1 = {
+		death = "8050.1.1"
 	}
 }
 
@@ -1077,11 +1077,11 @@
 	culture = "lithuanian"
 	father = 82144 #Kunos son of Palemon
 	mother = 82157
-	895.1.1 = {
-		birth = "895.1.1"
+	8001.1.1 = {
+		birth = "8001.1.1"
 	}
-	962.1.1 = {
-		death = "958.1.1"
+	8068.1.1 = {
+		death = "8064.1.1"
 	}
 
 
@@ -1095,11 +1095,11 @@
 	culture = "lithuanian"
 	father = 82144 #Kunos son of Palemon
 	mother = 82157
-	899.1.1 = {
-		birth = "899.1.1"
+	8005.1.1 = {
+		birth = "8005.1.1"
 	}
-	962.1.1 = {
-		death = "962.1.1"
+	8068.1.1 = {
+		death = "8068.1.1"
 	}
 
 
@@ -1112,14 +1112,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 194118
-	827.1.1 = {
-		birth = "827.1.1"
+	7933.1.1 = {
+		birth = "7933.1.1"
 	}
-	852.1.1 = {
+	7958.1.1 = {
 		add_spouse = 82155
 	}
-	888.1.1 = {
-		death = "888.1.1"
+	7994.1.1 = {
+		death = "7994.1.1"
 	}
 }
 
@@ -1128,11 +1128,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	835.1.1 = {
-		birth = "835.1.1"
+	7941.1.1 = {
+		birth = "7941.1.1"
 	}
-	900.1.1 = {
-		death = "900.1.1"
+	8006.1.1 = {
+		death = "8006.1.1"
 	}
 }
 
@@ -1144,14 +1144,14 @@
 	father = 82154
 	mother = 82155
 	culture = "lithuanian"
-	864.1.1 = {
-		birth = "864.1.1"
+	7970.1.1 = {
+		birth = "7970.1.1"
 	}
-	880.1.1 = {
+	7986.1.1 = {
 		add_spouse = 82147
 	}
-	937.1.1 = {
-		death = "937.1.1"
+	8043.1.1 = {
+		death = "8043.1.1"
 	}
 }
 
@@ -1163,11 +1163,11 @@
 	father = 82154
 	mother = 82155
 	culture = "lithuanian"
-	869.1.1 = {
-		birth = "869.1.1"
+	7975.1.1 = {
+		birth = "7975.1.1"
 	}
-	939.1.1 = {
-		death = "939.1.1"
+	8045.1.1 = {
+		death = "8045.1.1"
 	}
 }
 
@@ -1179,14 +1179,14 @@
 	father = 82156
 	mother = 82147
 	culture = "lithuanian"
-	882.1.1 = {
-		birth = "882.1.1"
+	7988.1.1 = {
+		birth = "7988.1.1"
 	}
-	920.1.1 = {
+	8026.1.1 = {
 		add_spouse = 82159
 	}
-	956.1.1 = {
-		death = "956.1.1"
+	8062.1.1 = {
+		death = "8062.1.1"
 	}
 }
 
@@ -1196,11 +1196,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	899.1.1 = {
-		birth = "899.1.1"
+	8005.1.1 = {
+		birth = "8005.1.1"
 	}
-	970.1.1 = {
-		death = "970.1.1"
+	8076.1.1 = {
+		death = "8076.1.1"
 	}
 }
 
@@ -1213,11 +1213,11 @@
 	father = 82158
 	mother = 82159
 	culture = "lithuanian"
-	925.1.1 = {
-		birth = "925.1.1"
+	8031.1.1 = {
+		birth = "8031.1.1"
 	}
-	999.1.1 = {
-		death = "999.1.1"
+	8105.1.1 = {
+		death = "8105.1.1"
 	}
 }
 
@@ -1229,11 +1229,11 @@
 	father = 82158
 	mother = 82159
 	culture = "lithuanian"
-	931.1.1 = {
-		birth = "931.1.1"
+	8037.1.1 = {
+		birth = "8037.1.1"
 	}
-	990.1.1 = {
-		death = "990.1.1"
+	8096.1.1 = {
+		death = "8096.1.1"
 	}
 }
 
@@ -1245,11 +1245,11 @@
 	father = 82158
 	mother = 82159
 	culture = "lithuanian"
-	934.1.1 = {
-		birth = "934.1.1"
+	8040.1.1 = {
+		birth = "8040.1.1"
 	}
-	1000.1.1 = {
-		death = "1000.1.1"
+	8106.1.1 = {
+		death = "8106.1.1"
 	}
 }
 
@@ -1259,11 +1259,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82148 #Spera son of Palemon
-	892.1.1 = {
-		birth = "892.1.1"
+	7998.1.1 = {
+		birth = "7998.1.1"
 	}
-	955.1.1 = {
-		death = "955.1.1"
+	8061.1.1 = {
+		death = "8061.1.1"
 	}
 
 
@@ -1277,11 +1277,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82152 #Kernius son of Kunos
-	920.1.1 = {
-		birth = "920.1.1"
+	8026.1.1 = {
+		birth = "8026.1.1"
 	}
-	974.1.1 = {
-		death = "974.1.1"
+	8080.1.1 = {
+		death = "8080.1.1"
 	}
 
 
@@ -1294,14 +1294,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82163 #Daumantis son of Spera
-	914.1.1 = {
-		birth = "914.1.1"
+	8020.1.1 = {
+		birth = "8020.1.1"
 	}
-	937.1.1 = {
+	8043.1.1 = {
 		add_spouse = 82164
 	}
-	967.1.1 = {
-		death = "967.1.1"
+	8073.1.1 = {
+		death = "8073.1.1"
 	}
 
 
@@ -1315,14 +1315,14 @@
 	culture = "lithuanian"
 	father = 82153 #Gimbutas son of Kunos
 	mother = 82157
-	929.1.1 = {
-		birth = "929.1.1"
+	8035.1.1 = {
+		birth = "8035.1.1"
 	}
-	960.1.1 = {
+	8066.1.1 = {
 		add_spouse = 82167
 	}
-	989.1.1 = {
-		death = "989.1.1"
+	8095.1.1 = {
+		death = "8095.1.1"
 	}
 
 
@@ -1334,11 +1334,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	940.1.1 = {
-		birth = "940.1.1"
+	8046.1.1 = {
+		birth = "8046.1.1"
 	}
-	1004.1.1 = {
-		death = "1004.1.1"
+	8110.1.1 = {
+		death = "8110.1.1"
 	}
 
 
@@ -1353,11 +1353,11 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	961.1.1 = {
-		birth = "961.1.1"
+	8067.1.1 = {
+		birth = "8067.1.1"
 	}
-	989.1.1 = {
-		death = "989.1.1"
+	8095.1.1 = {
+		death = "8095.1.1"
 	}
 
 
@@ -1373,11 +1373,11 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	963.1.1 = {
-		birth = "963.1.1"
+	8069.1.1 = {
+		birth = "8069.1.1"
 	}
-	1034.1.1 = {
-		death = "1034.1.1"
+	8140.1.1 = {
+		death = "8140.1.1"
 	}
 
 
@@ -1390,14 +1390,14 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	965.1.1 = {
-		birth = "965.1.1"
+	8071.1.1 = {
+		birth = "8071.1.1"
 	}
-	998.1.1 = {
+	8104.1.1 = {
 		add_spouse = 82174
 	}
-	1023.1.1 = {
-		death = "1023.1.1"
+	8129.1.1 = {
+		death = "8129.1.1"
 	}
 
 
@@ -1410,11 +1410,11 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	968.1.1 = {
-		birth = "968.1.1"
+	8074.1.1 = {
+		birth = "8074.1.1"
 	}
-	1041.1.1 = {
-		death = "1041.1.1"
+	8147.1.1 = {
+		death = "8147.1.1"
 	}
 
 
@@ -1427,11 +1427,11 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	970.1.1 = {
-		birth = "970.1.1"
+	8076.1.1 = {
+		birth = "8076.1.1"
 	}
-	1012.1.1 = {
-		death = "1012.1.1"
+	8118.1.1 = {
+		death = "8118.1.1"
 	}
 
 
@@ -1445,11 +1445,11 @@
 	culture = "lithuanian"
 	father = 82166 #Montvilas son of Gimbutas
 	mother = 82167
-	972.1.1 = {
-		birth = "972.1.1"
+	8078.1.1 = {
+		birth = "8078.1.1"
 	}
-	1047.1.1 = {
-		death = "1047.1.1"
+	8153.1.1 = {
+		death = "8153.1.1"
 	}
 
 
@@ -1461,11 +1461,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	980.1.1 = {
-		birth = "980.1.1"
+	8086.1.1 = {
+		birth = "8086.1.1"
 	}
-	1056.1.1 = {
-		death = "1056.1.1"
+	8162.1.1 = {
+		death = "8162.1.1"
 	}
 
 
@@ -1478,14 +1478,14 @@
 	culture = "lithuanian"
 	father = 82170 #Vykintas son of Montvilas
 	mother = 82174
-	1000.1.1 = {
-		birth = "1000.1.1"
+	8106.1.1 = {
+		birth = "8106.1.1"
 	}
-	1020.1.1 = {
+	8126.1.1 = {
 		add_spouse = 82179
 	}
-	1064.1.1 = {
-		death = "1064.1.1"
+	8170.1.1 = {
+		death = "8170.1.1"
 	}
 
 
@@ -1499,14 +1499,14 @@
 	culture = "lithuanian"
 	father = 82165 #Kiras son of Daumantis
 	mother = 82164 #Pajauta daughter of Kernius
-	940.1.1 = {
-		birth = "940.1.1"
+	8046.1.1 = {
+		birth = "8046.1.1"
 	}
-	975.1.1 = {
+	8081.1.1 = {
 		add_spouse = 82177
 	}
-	1021.1.1 = {
-		death = "1021.1.1"
+	8127.1.1 = {
+		death = "8127.1.1"
 	}
 
 
@@ -1517,11 +1517,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	954.1.1 = {
-		birth = "954.1.1"
+	8060.1.1 = {
+		birth = "8060.1.1"
 	}
-	1011.1.1 = {
-		death = "1011.1.1"
+	8117.1.1 = {
+		death = "8117.1.1"
 	}
 
 
@@ -1535,14 +1535,14 @@
 	culture = "lithuanian"
 	father = 82176 #Kukovaitis son of Kiras son of Daumantis
 	mother = 82177
-	977.1.1 = {
-		birth = "977.1.1"
+	8083.1.1 = {
+		birth = "8083.1.1"
 	}
-	1022.1.1 = {
+	8128.1.1 = {
 		add_spouse = 82181
 	}
-	1054.1.1 = {
-		death = "1054.1.1"
+	8160.1.1 = {
+		death = "8160.1.1"
 	}
 
 
@@ -1557,11 +1557,11 @@
 	culture = "lithuanian"
 	father = 82176 #Kukovaitis son of Kiras son of Daumantis
 	mother = 82177
-	988.1.1 = {
-		birth = "988.1.1"
+	8094.1.1 = {
+		birth = "8094.1.1"
 	}
-	1067.1.1 = {
-		death = "1067.1.1"
+	8173.1.1 = {
+		death = "8173.1.1"
 	}
 
 
@@ -1574,11 +1574,11 @@
 	culture = "lithuanian"
 	father = 82175 #Zivinbudas son of Vykintas
 	mother = 82179
-	1021.1.1 = {
-		birth = "1021.1.1"
+	8127.1.1 = {
+		birth = "8127.1.1"
 	}
-	1088.1.1 = {
-		death = "1088.1.1"
+	8194.1.1 = {
+		death = "8194.1.1"
 	}
 
 
@@ -1589,11 +1589,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1001.1.1 = {
-		birth = "1001.1.1"
+	8107.1.1 = {
+		birth = "8107.1.1"
 	}
-	1078.1.1 = {
-		death = "1078.1.1"
+	8184.1.1 = {
+		death = "8184.1.1"
 	}
 
 
@@ -1607,14 +1607,14 @@
 	culture = "lithuanian"
 	father = 82178 #utenis son of Kukovaitis
 	mother = 82181
-	1024.1.1 = {
-		birth = "1024.1.1"
+	8130.1.1 = {
+		birth = "8130.1.1"
 	}
-	1065.1.1 = {
+	8171.1.1 = {
 		add_spouse = 82201
 	}
-	1093.1.1 = {
-		death = "1093.1.1"
+	8199.1.1 = {
+		death = "8199.1.1"
 	}
 
 
@@ -1628,11 +1628,11 @@
 	culture = "lithuanian"
 	father = 82178 #utenis son of Kukovaitis
 	mother = 82181
-	1027.1.1 = {
-		birth = "1027.1.1"
+	8133.1.1 = {
+		birth = "8133.1.1"
 	}
-	1084.1.1 = {
-		death = "1084.1.1"
+	8190.1.1 = {
+		death = "8190.1.1"
 	}
 
 
@@ -1648,11 +1648,11 @@
 	culture = "lithuanian"
 	father = 82178 #utenis son of Kukovaitis
 	mother = 82181
-	1029.1.1 = {
-		birth = "1029.1.1"
+	8135.1.1 = {
+		birth = "8135.1.1"
 	}
-	1099.1.1 = {
-		death = "1099.1.1"
+	8205.1.1 = {
+		death = "8205.1.1"
 	}
 
 
@@ -1665,11 +1665,11 @@
 	culture = "lithuanian"
 	father = 82178 #Utenis son of Kukovaitis
 	mother = 82181
-	1031.1.1 = {
-		birth = "1031.1.1"
+	8137.1.1 = {
+		birth = "8137.1.1"
 	}
-	1079.1.1 = {
-		death = "1079.1.1"
+	8185.1.1 = {
+		death = "8185.1.1"
 	}
 
 
@@ -1683,11 +1683,11 @@
 	culture = "lithuanian"
 	father = 82178 #utenis son of Kukovaitis
 	mother = 82181
-	1036.1.1 = {
-		birth = "1036.1.1"
+	8142.1.1 = {
+		birth = "8142.1.1"
 	}
-	1099.1.1 = {
-		death = "1099.1.1"
+	8205.1.1 = {
+		death = "8205.1.1"
 	}
 
 
@@ -1700,14 +1700,14 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82171 #Erdvilas son of Montvilas
-	1008.1.1 = {
-		birth = "1008.1.1"
+	8114.1.1 = {
+		birth = "8114.1.1"
 	}
-	1055.1.1 = {
+	8161.1.1 = {
 		add_spouse = 82188
 	}
-	1075.1.1 = {
-		death = "1075.1.1"
+	8181.1.1 = {
+		death = "8181.1.1"
 	}
 
 
@@ -1719,11 +1719,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1035.1.1 = {
-		birth = "1025.1.1"
+	8141.1.1 = {
+		birth = "8131.1.1"
 	}
-	1098.1.1 = {
-		death = "1098.1.1"
+	8204.1.1 = {
+		death = "8204.1.1"
 	}
 
 
@@ -1736,14 +1736,14 @@
 	culture = "lithuanian"
 	father = 82187 #Mingaila son of Erdvilas
 	mother = 82188
-	1056.1.1 = {
-		birth = "1056.1.1"
+	8162.1.1 = {
+		birth = "8162.1.1"
 	}
-	1080.1.1 = {
+	8186.1.1 = {
 		add_spouse = 82192
 	}
-	1132.1.1 = {
-		death = "1132.1.1"
+	8238.1.1 = {
+		death = "8238.1.1"
 	}
 
 
@@ -1757,11 +1757,11 @@
 	culture = "lithuanian"
 	father = 82187 #Mingaila son of Erdvilas
 	mother = 82188
-	1058.1.1 = {
-		birth = "1056.1.1"
+	8164.1.1 = {
+		birth = "8162.1.1"
 	}
-	1122.1.1 = {
-		death = "1122.1.1"
+	8228.1.1 = {
+		death = "8228.1.1"
 	}
 
 
@@ -1776,11 +1776,11 @@
 	culture = "lithuanian"
 	father = 82187 #Mingaila son of Erdvilas
 	mother = 82188
-	1062.1.1 = {
-		birth = "1062.1.1"
+	8168.1.1 = {
+		birth = "8168.1.1"
 	}
-	1143.1.1 = {
-		death = "1143.1.1"
+	8249.1.1 = {
+		death = "8249.1.1"
 	}
 
 
@@ -1792,11 +1792,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1065.1.1 = {
-		birth = "1065.1.1"
+	8171.1.1 = {
+		birth = "8171.1.1"
 	}
-	1144.1.1 = {
-		death = "1144.1.1"
+	8250.1.1 = {
+		death = "8250.1.1"
 	}
 
 
@@ -1810,11 +1810,11 @@
 	culture = "lithuanian"
 	father = 82189 #Skirmantas son of Mingaila
 	mother = 82192
-	1088.1.1 = {
-		birth = "1088.1.1"
+	8194.1.1 = {
+		birth = "8194.1.1"
 	}
-	1155.1.1 = {
-		death = "1155.1.1"
+	8261.1.1 = {
+		death = "8261.1.1"
 	}
 
 
@@ -1827,14 +1827,14 @@
 	culture = "lithuanian"
 	father = 82189 #Skirmantas son of Mingaila
 	mother = 82192
-	1090.1.1 = {
-		birth = "1090.1.1"
+	8196.1.1 = {
+		birth = "8196.1.1"
 	}
-	1150.1.1 = {
+	8256.1.1 = {
 		add_spouse = 82197
 	}
-	1176.1.1 = {
-		death = "1176.1.1"
+	8282.1.1 = {
+		death = "8282.1.1"
 	}
 
 
@@ -1847,11 +1847,11 @@
 	culture = "lithuanian"
 	father = 82189 #Skirmantas son of Mingaila
 	mother = 82192
-	1097.1.1 = {
-		birth = "1097.1.1"
+	8203.1.1 = {
+		birth = "8203.1.1"
 	}
-	1180.1.1 = {
-		death = "1180.1.1"
+	8286.1.1 = {
+		death = "8286.1.1"
 	}
 
 
@@ -1865,11 +1865,11 @@
 	culture = "lithuanian"
 	father = 82189 #Skirmantas son of Mingaila
 	mother = 82192
-	1100.1.1 = {
-		birth = "1100.1.1"
+	8206.1.1 = {
+		birth = "8206.1.1"
 	}
-	1157.1.1 = {
-		death = "1157.1.1"
+	8263.1.1 = {
+		death = "8263.1.1"
 	}
 
 
@@ -1881,11 +1881,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1130.1.1 = {
-		birth = "1130.1.1"
+	8236.1.1 = {
+		birth = "8236.1.1"
 	}
-	1201.1.1 = {
-		death = "1201.1.1"
+	8307.1.1 = {
+		death = "8307.1.1"
 	}
 
 
@@ -1908,10 +1908,10 @@
 	trait = brave
 	father = 82194 #Liubartas son of Skirmantas
 #	mother = 82197
-	1151.1.1 = {
+	8257.1.1 = {
 		birth = "yes"
 	}
-	1238.1.1 = {
+	8344.1.1 = {
 		death = "yes"
 	}
 }
@@ -1925,14 +1925,14 @@
 	culture = "lithuanian"
 	father = 82194 #Liubartas son of Skirmantas
 	mother = 82197
-	1155.1.1 = {
-		birth = "1155.1.1"
+	8261.1.1 = {
+		birth = "8261.1.1"
 	}
-	1174.1.1 = {
+	8280.1.1 = {
 		religion = "fots_seven" # orthodox
 	}
-	1221.1.1 = {
-		death = "1221.1.1"
+	8327.1.1 = {
+		death = "8327.1.1"
 	}
 
 
@@ -1946,14 +1946,14 @@
 	culture = "lithuanian"
 	father = 82182 #Šventaragis son of Utenis
 	mother = 82201
-	1065.1.1 = {
-		birth = "1065.1.1"
+	8171.1.1 = {
+		birth = "8171.1.1"
 	}
-	1085.1.1 = {
+	8191.1.1 = {
 		add_spouse = 82202
 	}
-	1124.1.1 = {
-		death = "1124.1.1"
+	8230.1.1 = {
+		death = "8230.1.1"
 	}
 
 
@@ -1965,11 +1965,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1046.1.1 = {
-		birth = "1046.1.1"
+	8152.1.1 = {
+		birth = "8152.1.1"
 	}
-	1112.1.1 = {
-		death = "1112.1.1"
+	8218.1.1 = {
+		death = "8218.1.1"
 	}
 
 
@@ -1981,11 +1981,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1065.1.1 = {
-		birth = "1065.1.1"
+	8171.1.1 = {
+		birth = "8171.1.1"
 	}
-	1134.1.1 = {
-		death = "1134.1.1"
+	8240.1.1 = {
+		death = "8240.1.1"
 	}
 
 
@@ -1998,11 +1998,11 @@
 	culture = "lithuanian"
 	father = 82200 #Skirmkantas son of Šventaragis
 	mother = 82202
-	1090.1.1 = {
-		birth = "1090.1.1"
+	8196.1.1 = {
+		birth = "8196.1.1"
 	}
-	1167.1.1 = {
-		death = "1167.1.1"
+	8273.1.1 = {
+		death = "8273.1.1"
 	}
 
 
@@ -2015,11 +2015,11 @@
 	culture = "lithuanian"
 	father = 82200 #Skirmkantas son of Šventaragis
 	mother = 82202
-	1095.1.1 = {
-		birth = "1095.1.1"
+	8201.1.1 = {
+		birth = "8201.1.1"
 	}
-	1169.1.1 = {
-		death = "1169.1.1"
+	8275.1.1 = {
+		death = "8275.1.1"
 	}
 
 
@@ -2031,11 +2031,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82190 #Ginvilas son of Mingaila
-	1090.1.1 = {
-		birth = "1090.1.1"
+	8196.1.1 = {
+		birth = "8196.1.1"
 	}
-	1175.1.1 = {
-		death = "1175.1.1"
+	8281.1.1 = {
+		death = "8281.1.1"
 	}
 
 
@@ -2046,14 +2046,14 @@
 	dynasty = 9119
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	820.1.1 = {
-		birth = "820.1.1"
+	7926.1.1 = {
+		birth = "7926.1.1"
 	}
-	856.1.1 = {
+	7962.1.1 = {
 		add_spouse = 82207
 	}
-	885.1.1 = {
-		death = "885.1.1"
+	7991.1.1 = {
+		death = "7991.1.1"
 	}
 
 
@@ -2065,11 +2065,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	840.1.1 = {
-		birth = "840.1.1"
+	7946.1.1 = {
+		birth = "7946.1.1"
 	}
-	905.1.1 = {
-		death = "905.1.1"
+	8011.1.1 = {
+		death = "8011.1.1"
 	}
 
 
@@ -2083,11 +2083,11 @@
 	culture = "lithuanian"
 	father = 82206
 	mother = 82207
-	857.1.1 = {
-		birth = "857.1.1"
+	7963.1.1 = {
+		birth = "7963.1.1"
 	}
-	929.1.1 = {
-		death = "929.1.1"
+	8035.1.1 = {
+		death = "8035.1.1"
 	}
 
 
@@ -2102,14 +2102,14 @@
 	culture = "lithuanian"
 	father = 82206
 	mother = 82207
-	859.1.1 = {
-		birth = "859.1.1"
+	7965.1.1 = {
+		birth = "7965.1.1"
 	}
-	876.1.1 = {
+	7982.1.1 = {
 		add_spouse = 82145
 	}
-	940.1.1 = {
-		death = "940.1.1"
+	8046.1.1 = {
+		death = "8046.1.1"
 	}
 
 
@@ -2123,11 +2123,11 @@
 	culture = "lithuanian"
 	father = 82206
 	mother = 82207
-	861.1.1 = {
-		birth = "861.1.1"
+	7967.1.1 = {
+		birth = "7967.1.1"
 	}
-	941.1.1 = {
-		death = "941.1.1"
+	8047.1.1 = {
+		death = "8047.1.1"
 	}
 
 
@@ -2142,11 +2142,11 @@
 	culture = "lithuanian"
 	father = 82209
 	mother = 82145
-	880.1.1 = {
-		birth = "880.1.1"
+	7986.1.1 = {
+		birth = "7986.1.1"
 	}
-	954.1.1 = {
-		death = "954.1.1"
+	8060.1.1 = {
+		death = "8060.1.1"
 	}
 
 
@@ -2160,11 +2160,11 @@
 	culture = "lithuanian"
 	father = 82209
 	mother = 82145
-	882.1.1 = {
-		birth = "882.1.1"
+	7988.1.1 = {
+		birth = "7988.1.1"
 	}
-	957.1.1 = {
-		death = "957.1.1"
+	8063.1.1 = {
+		death = "8063.1.1"
 	}
 
 
@@ -2177,14 +2177,14 @@
 	culture = "lithuanian"
 	father = 82209
 	mother = 82145
-	885.1.1 = {
-		birth = "885.1.1"
+	7991.1.1 = {
+		birth = "7991.1.1"
 	}
-	907.1.1 = {
+	8013.1.1 = {
 		add_spouse = 82214
 	}
-	954.1.1 = {
-		death = "954.1.1"
+	8060.1.1 = {
+		death = "8060.1.1"
 	}
 
 
@@ -2198,11 +2198,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 82150
-	890.1.1 = {
-		birth = "890.1.1"
+	7996.1.1 = {
+		birth = "7996.1.1"
 	}
-	967.1.1 = {
-		death = "967.1.1"
+	8073.1.1 = {
+		death = "8073.1.1"
 	}
 }
 
@@ -2214,14 +2214,14 @@
 	culture = "lithuanian"
 	father = 82213
 	mother = 82214
-	917.1.1 = {
-		birth = "917.1.1"
+	8023.1.1 = {
+		birth = "8023.1.1"
 	}
-	967.1.1 = {
+	8073.1.1 = {
 		add_spouse = 82216
 	}
-	1002.1.1 = {
-		death = "1002.1.1"
+	8108.1.1 = {
+		death = "8108.1.1"
 	}
 
 
@@ -2233,11 +2233,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	945.1.1 = {
-		birth = "945.1.1"
+	8051.1.1 = {
+		birth = "8051.1.1"
 	}
-	1027.1.1 = {
-		death = "1027.1.1"
+	8133.1.1 = {
+		death = "8133.1.1"
 	}
 }
 
@@ -2249,14 +2249,14 @@
 	culture = "lithuanian"
 	father = 82215
 	mother = 82216
-	974.1.1 = {
-		birth = "974.1.1"
+	8080.1.1 = {
+		birth = "8080.1.1"
 	}
-	1030.1.1 = {
+	8136.1.1 = {
 		add_spouse = 82218
 	}
-	1056.1.1 = {
-		death = "1056.1.1"
+	8162.1.1 = {
+		death = "8162.1.1"
 	}
 
 
@@ -2267,11 +2267,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1014.1.1 = {
-		birth = "1014.1.1"
+	8120.1.1 = {
+		birth = "8120.1.1"
 	}
-	1078.1.1 = {
-		death = "1078.1.1"
+	8184.1.1 = {
+		death = "8184.1.1"
 	}
 }
 
@@ -2283,14 +2283,14 @@
 	culture = "lithuanian"
 	father = 82217
 	mother = 82218
-	1034.1.1 = {
-		birth = "1034.1.1"
+	8140.1.1 = {
+		birth = "8140.1.1"
 	}
-	1079.1.1 = {
+	8185.1.1 = {
 		add_spouse = 82191
 	}
-	1098.1.1 = {
-		death = "1098.1.1"
+	8204.1.1 = {
+		death = "8204.1.1"
 	}
 
 
@@ -2304,14 +2304,14 @@
 	culture = "lithuanian"
 	father = 82217
 	mother = 82218
-	1039.1.1 = {
-		birth = "1039.1.1"
+	8145.1.1 = {
+		birth = "8145.1.1"
 	}
-	1098.1.2 = {
+	8204.1.2 = {
 		add_spouse = 82191
 	}
-	1102.1.1 = {
-		death = "1102.1.1"
+	8208.1.1 = {
+		death = "8208.1.1"
 	}
 
 
@@ -2326,11 +2326,11 @@
 	culture = "lithuanian"
 	father = 82217
 	mother = 82218
-	1048.1.1 = {
-		birth = "1048.1.1"
+	8154.1.1 = {
+		birth = "8154.1.1"
 	}
-	1115.1.1 = {
-		death = "1115.1.1"
+	8221.1.1 = {
+		death = "8221.1.1"
 	}
 
 
@@ -2345,11 +2345,11 @@
 	culture = "lithuanian"
 	father = 82219
 	mother = 82191
-	1080.1.1 = {
-		birth = "1080.1.1"
+	8186.1.1 = {
+		birth = "8186.1.1"
 	}
-	1158.1.1 = {
-		death = "1158.1.1"
+	8264.1.1 = {
+		death = "8264.1.1"
 	}
 
 
@@ -2364,11 +2364,11 @@
 	culture = "lithuanian"
 	father = 82219
 	mother = 82191
-	1082.1.1 = {
-		birth = "1082.1.1"
+	8188.1.1 = {
+		birth = "8188.1.1"
 	}
-	1159.1.1 = {
-		death = "1159.1.1"
+	8265.1.1 = {
+		death = "8265.1.1"
 	}
 
 
@@ -2381,14 +2381,14 @@
 	culture = "lithuanian"
 	father = 82219
 	mother = 82191
-	1085.1.1 = {
-		birth = "1085.1.1"
+	8191.1.1 = {
+		birth = "8191.1.1"
 	}
-	1135.1.2 = {
+	8241.1.2 = {
 		add_spouse = 82227
 	}
-	1145.1.1 = {
-		death = "1145.1.1"
+	8251.1.1 = {
+		death = "8251.1.1"
 	}
 
 
@@ -2401,11 +2401,11 @@
 	culture = "lithuanian"
 	father = 82219
 	mother = 82191
-	1088.1.1 = {
-		birth = "1088.1.1"
+	8194.1.1 = {
+		birth = "8194.1.1"
 	}
-	1155.1.1 = {
-		death = "1155.1.1"
+	8261.1.1 = {
+		death = "8261.1.1"
 	}
 
 
@@ -2419,11 +2419,11 @@
 	culture = "lithuanian"
 	father = 82220
 	mother = 82191
-	1100.1.1 = {
-		birth = "1100.1.1"
+	8206.1.1 = {
+		birth = "8206.1.1"
 	}
-	1175.1.1 = {
-		death = "1175.1.1"
+	8281.1.1 = {
+		death = "8281.1.1"
 	}
 
 
@@ -2434,11 +2434,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1117.1.1 = {
-		birth = "1117.1.1"
+	8223.1.1 = {
+		birth = "8223.1.1"
 	}
-	1188.1.1 = {
-		death = "1188.1.1"
+	8294.1.1 = {
+		death = "8294.1.1"
 	}
 }
 
@@ -2449,11 +2449,11 @@
 	culture = "lithuanian"
 	father = 82224
 	mother = 82227
-	1136.1.1 = {
-		birth = "1136.1.1"
+	8242.1.1 = {
+		birth = "8242.1.1"
 	}
-	1185.1.1 = {
-		death = "1185.1.1"
+	8291.1.1 = {
+		death = "8291.1.1"
 	}
 
 
@@ -2466,14 +2466,14 @@
 	culture = "lithuanian"
 	father = 82224
 	mother = 82227
-	1140.1.1 = {
-		birth = "1140.1.1"
+	8246.1.1 = {
+		birth = "8246.1.1"
 	}
-	1205.1.1 = {
+	8311.1.1 = {
 		add_spouse = 82230
 	}
-	1222.1.1 = {
-		death = "1222.1.1"
+	8328.1.1 = {
+		death = "8328.1.1"
 	}
 
 
@@ -2484,11 +2484,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1187.1.1 = {
-		birth = "1187.1.1"
+	8293.1.1 = {
+		birth = "8293.1.1"
 	}
-	1268.1.1 = {
-		death = "1268.1.1"
+	8374.1.1 = {
+		death = "8374.1.1"
 	}
 }
 
@@ -2499,11 +2499,11 @@
 	culture = "lithuanian"
 	father = 82229
 	mother = 82230
-	1208.1.1 = {
-		birth = "1208.1.1"
+	8314.1.1 = {
+		birth = "8314.1.1"
 	}
-	1282.1.1 = {
-		death = "1282.1.1"
+	8388.1.1 = {
+		death = "8388.1.1"
 	}
 
 
@@ -2516,11 +2516,11 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	father = 194109
-	799.1.1 = {
-		birth = "799.1.1"
+	7905.1.1 = {
+		birth = "7905.1.1"
 	}
-	865.1.1 = {
-		death = "865.1.1"
+	7971.1.1 = {
+		death = "7971.1.1"
 	}
 
 
@@ -2532,11 +2532,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	844.1.1 = {
-		birth = "844.1.1"
+	7950.1.1 = {
+		birth = "7950.1.1"
 	}
-	921.1.1 = {
-		death = "921.1.1"
+	8027.1.1 = {
+		death = "8027.1.1"
 	}
 
 
@@ -2549,11 +2549,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	850.1.1 = {
-		birth = "850.1.1"
+	7956.1.1 = {
+		birth = "7956.1.1"
 	}
-	927.1.1 = {
-		death = "927.1.1"
+	8033.1.1 = {
+		death = "8033.1.1"
 	}
 
 
@@ -2565,11 +2565,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	911.1.1 = {
-		birth = "911.1.1"
+	8017.1.1 = {
+		birth = "8017.1.1"
 	}
-	1000.1.1 = {
-		death = "100.1.1"
+	8106.1.1 = {
+		death = "7206.1.1"
 	}
 
 
@@ -2581,11 +2581,11 @@
 	dynasty = 9126
 	religion = "fots_seven" #converted in 1009
 	culture = "lithuanian"
-	950.1.1 = {
-		birth = "950.1.1"
+	8056.1.1 = {
+		birth = "8056.1.1"
 	}
-	1015.1.1 = {
-		death = "1015.1.1"
+	8121.1.1 = {
+		death = "8121.1.1"
 	}
 
 
@@ -2597,14 +2597,14 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	989.1.1 = {
-		birth = "989.1.1"
+	8095.1.1 = {
+		birth = "8095.1.1"
 	}
-	1040.1.1 = {
+	8146.1.1 = {
 		add_spouse = 82281
 	}
-	1065.1.1 = {
-		death = "1065.1.1"
+	8171.1.1 = {
+		death = "8171.1.1"
 	}
 
 
@@ -2615,11 +2615,11 @@
 	female = yes
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1024.1.1 = {
-		birth = "1024.1.1"
+	8130.1.1 = {
+		birth = "8130.1.1"
 	}
-	1108.1.1 = {
-		death = "1108.1.1"
+	8214.1.1 = {
+		death = "8214.1.1"
 	}
 
 
@@ -2633,11 +2633,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1045.1.1 = {
-		birth = "1045.1.1"
+	8151.1.1 = {
+		birth = "8151.1.1"
 	}
-	1124.1.1 = {
-		death = "1124.1.1"
+	8230.1.1 = {
+		death = "8230.1.1"
 	}
 
 
@@ -2650,14 +2650,14 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1041.1.1 = {
-		birth = "1041.1.1"
+	8147.1.1 = {
+		birth = "8147.1.1"
 	}
-	1060.1.1 = {
+	8166.1.1 = {
 		add_spouse = 82186
 	}
-	1123.1.1 = {
-		death = "1123.1.1"
+	8229.1.1 = {
+		death = "8229.1.1"
 	}
 
 
@@ -2672,11 +2672,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1061.1.1 = {
-		birth = "1061.1.1"
+	8167.1.1 = {
+		birth = "8167.1.1"
 	}
-	1142.1.1 = {
-		death = "1142.1.1"
+	8248.1.1 = {
+		death = "8248.1.1"
 	}
 
 
@@ -2691,11 +2691,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1063.1.1 = {
-		birth = "1063.1.1"
+	8169.1.1 = {
+		birth = "8169.1.1"
 	}
-	1149.1.1 = {
-		death = "1149.1.1"
+	8255.1.1 = {
+		death = "8255.1.1"
 	}
 
 
@@ -2709,11 +2709,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1065.1.1 = {
-		birth = "1065.1.1"
+	8171.1.1 = {
+		birth = "8171.1.1"
 	}
-	1144.1.1 = {
-		death = "1144.1.1"
+	8250.1.1 = {
+		death = "8250.1.1"
 	}
 
 
@@ -2725,11 +2725,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1115.1.1 = {
-		birth = "1115.1.1"
+	8221.1.1 = {
+		birth = "8221.1.1"
 	}
-	1189.1.1 = {
-		death = "1189.1.1"
+	8295.1.1 = {
+		death = "8295.1.1"
 	}
 
 
@@ -2741,11 +2741,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1154.1.1 = {
-		birth = "1154.1.1"
+	8260.1.1 = {
+		birth = "8260.1.1"
 	}
-	1235.1.1 = {
-		death = "1235.1.1"
+	8341.1.1 = {
+		death = "8341.1.1"
 	}
 
 
@@ -2757,11 +2757,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1199.1.1 = {
-		birth = "1199.1.1"
+	8305.1.1 = {
+		birth = "8305.1.1"
 	}
-	1256.1.1 = {
-		death = "1256.1.1"
+	8362.1.1 = {
+		death = "8362.1.1"
 	}
 
 
@@ -2773,11 +2773,11 @@
 	dynasty = 9126
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
-	1225.1.1 = {
-		birth = "1225.1.1"
+	8331.1.1 = {
+		birth = "8331.1.1"
 	}
-	1296.1.1 = {
-		death = "1296.1.1"
+	8402.1.1 = {
+		death = "8402.1.1"
 	}
 
 
@@ -2787,10 +2787,10 @@
 	dynasty = 9126
 	religion = old_gods_btw_fnf
 	culture = lithuanian # ex_latgalian
-	733.1.1 = {
+	7839.1.1 = {
 		birth = yes
 	}
-	799.1.1 = {
+	7905.1.1 = {
 		death = yes
 	}
 }
@@ -2800,10 +2800,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian # ex_latgalian
 	father = 194108
-	770.1.1 = {
+	7876.1.1 = {
 		birth = yes
 	}
-	822.1.1 = {
+	7928.1.1 = {
 		death = yes
 	}
 }
@@ -2812,10 +2812,10 @@
 	dynasty = 9116
 	religion = old_gods_btw_fnf
 	culture = lithuanian
-	733.1.1 = {
+	7839.1.1 = {
 		birth = yes
 	}
-	799.1.1 = {
+	7905.1.1 = {
 		death = yes
 	}
 }
@@ -2825,10 +2825,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 194113
-	770.1.1 = {
+	7876.1.1 = {
 		birth = yes
 	}
-	822.1.1 = {
+	7928.1.1 = {
 		death = yes
 	}
 }
@@ -2838,10 +2838,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 194114
-	810.1.1 = {
+	7916.1.1 = {
 		birth = yes
 	}
-	866.1.1 = {
+	7972.1.1 = {
 		death = yes
 	}
 }
@@ -2850,10 +2850,10 @@
 	dynasty = 9118
 	religion = old_gods_btw_fnf
 	culture = lithuanian
-	733.1.1 = {
+	7839.1.1 = {
 		birth = yes
 	}
-	799.1.1 = {
+	7905.1.1 = {
 		death = yes
 	}
 }
@@ -2863,10 +2863,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 194116
-	770.1.1 = {
+	7876.1.1 = {
 		birth = yes
 	}
-	822.1.1 = {
+	7928.1.1 = {
 		death = yes
 	}
 }
@@ -2876,10 +2876,10 @@
 	religion = old_gods_btw_fnf
 	culture = lithuanian
 	father = 194117
-	810.1.1 = {
+	7916.1.1 = {
 		birth = yes
 	}
-	866.1.1 = {
+	7972.1.1 = {
 		death = yes
 	}
 }
