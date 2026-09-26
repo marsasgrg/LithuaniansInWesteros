@@ -1,4 +1,44 @@
-9116 = {
+﻿9116 = {
 	name = "dynn_Palemonaitis"
 	culture = "lithuanian"
 }
+100426 = {
+	name = "dynn_Chodkevicius"
+	culture = "lithuanian"
+}
+100425 = {
+	name = "dynn_Pacas"
+	culture = "lithuanian"
+}
+100420 = {
+	name = "dynn_Gedgaudis"
+	culture = "lithuanian"
+}
+9118 = {
+	prefix = "dynnp_of"
+	name = "dynn_Gardinas"
+	culture = "lithuanian"
+}
+9126 = {
+	prefix = "dynnp_of"
+	name = "dynn_Suvalkija"
+	culture = "lithuanian"
+}
+9119 = {
+	prefix = "dynnp_of"
+	name = "dynn_Palenke"
+	culture = "lithuanian"
+}
+100372 = {
+	name = "dynn_Memel"
+	culture = "lithuanian" #latgalian
+}
+100421 = {
+	name = "dynn_Sviriskis"
+	culture = "lithuanian"
+}
+# moved to house gediminid
+# 11 = {
+# 	name = "dynn_Gediminaitis"
+# 	culture = "lithuanian"
+# }

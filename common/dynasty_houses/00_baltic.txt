@@ -1,0 +1,10 @@
+﻿gediminid = { 
+	name = "dynn_Gediminaitis"
+	dynasty = 9116
+}
+
+9117 = { # founded by 6893
+	prefix = "dynnp_of"
+    dynasty = 9116
+	name = "dynn_Z_emaiteje"
+}

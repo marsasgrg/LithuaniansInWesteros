@@ -3,25 +3,41 @@
 	
 	ethos = ethos_bellicose
 	heritage = heritage_first_man
-	language = language_old_tongue
+	language = language_agot_first_men
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		agot_tradition_wildling
+		tradition_agot_wildling
+		tradition_agot_forestmen
 		tradition_sacred_groves
 		tradition_hit_and_run
 		tradition_zealous_people
 	}
-	dlc_tradition = {
-		trait = tradition_mpo_northern_tribes
-		requires_dlc_flag = khans_of_the_steppe
-	}
 	name_list = name_list_lithuanian
 	
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
+	coa_gfx = { 
+		baltic_group_coa_gfx
+		wildling_coa_gfx
+		first_man_coa_gfx
+	}
+	building_gfx = { 	
+		wildling_building_gfx
+		norse_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = { 
+		wildling_clothing_gfx
+		fp1_norse_clothing_gfx
+		west_slavic_clothing_gfx
+		northern_clothing_gfx
+		first_man_clothing_gfx	
+	
+	 }
+	unit_gfx = { 	
+		wildling_unit_gfx
+		norse_unit_gfx
+		northern_unit_gfx 
+	}
 	
 	ethnicities = {
 		80 = caucasian_northern_blond

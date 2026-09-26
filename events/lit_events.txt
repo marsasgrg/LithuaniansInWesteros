@@ -1,4 +1,4 @@
-namespace = litwest 
+﻿namespace = litwest 
 
 #Event for creating Lithuania
 litwest.0001 = {
@@ -41,22 +41,7 @@ litwest.0001 = {
 			title:k_lithuania = { set_capital_county = scope:original_kingdom.title_capital_county }
 		}
 		
-		if = {
-			#If you turned a single Duchy into Lithuania
-			limit = { NOT = { title:k_lithuania = { has_variable = lithuania_kingdom_complete_boolean } } }
-			
-			#Makes it de jure part of Lithuania
-			scope:original_duchy = { set_de_jure_liege_title = title:k_lithuania }
-			
-			#If the duchy's kingdom had a holder, give him a claim
-			if = {
-				limit = { exists = scope:original_kingdom.holder }
-				scope:original_kingdom.holder = { add_pressed_claim = scope:original_duchy }
-			}
-			
-			#Gives Poland a new capital
-			title:k_lithuania = { set_capital_county = scope:original_duchy.title_capital_county }
-		}
+
 	}
 	
 	after = {

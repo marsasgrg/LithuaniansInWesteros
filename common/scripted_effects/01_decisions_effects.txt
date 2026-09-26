@@ -1,26 +1,91 @@
-find_descendants_effect = {
-
-    every_child = {
-        even_if_dead = yes
-            
-
-        if = {
-            limit = {
-                house = scope:tree_root.house
-            }
-            set_house  =  character:82140.house
-            if = {
-                limit = {
-                    is_alive = yes
-                    is_landed = yes
-                }
-                every_held_title = { set_coa = character:82140.house.coa }
-            }
-            
+﻿set_coa_to_dynasty = {
+    if = {
+        limit = {
+            is_alive = yes
+            is_landed = yes
         }
-
-        # then recurse
-        find_descendants_effect = yes
+        every_held_title = { set_coa = prev.house }
     }
-    
+}
+
+join_progenitor_dynasty_scripted_effect = {
+	custom_tooltip = house_members_switch_dynasty
+	dynasty = {
+		# Ancestors
+		every_dynasty_member = {
+			even_if_dead = yes
+			limit = {
+				NOT = {
+					any_in_list = {
+						list = cyrodiil_members
+						this = prev
+					}
+				}
+			}
+			every_ancestor = {
+				even_if_dead = yes
+				limit = {
+					dynasty = root.dynasty
+				}
+				add_to_list = cyrodiil_members
+				every_ancestor = {
+					even_if_dead = yes
+					limit = {
+						dynasty = root.dynasty
+					}
+					add_to_list = cyrodiil_members
+					every_ancestor = {
+						even_if_dead = yes
+						limit = {
+							dynasty = root.dynasty
+						}
+						add_to_list = cyrodiil_members
+						every_ancestor = {
+							even_if_dead = yes
+							limit = {
+								dynasty = root.dynasty
+							}
+							add_to_list = cyrodiil_members
+							every_ancestor = {
+								even_if_dead = yes
+								limit = {
+									dynasty = root.dynasty
+								}
+								add_to_list = cyrodiil_members
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	dynasty = {
+		# Current alive members
+		every_dynasty_member = {
+			limit = {
+				NOT = {
+					any_in_list = {
+						list = cyrodiil_members
+						this = prev
+					}
+				}
+			}
+			add_to_list = cyrodiil_members
+		}
+	}
+	dynasty.dynasty_founder = { set_father = $PROGENITOR$ }
+	hidden_effect = {
+		every_in_list = {
+			list = cyrodiil_members
+			set_house = $PROGENITOR$.house
+		}
+	}
+	set_house = $PROGENITOR$.house
+	$PROGENITOR$.house ?= {
+		if = {
+			limit = { NOT = { house_head = root } }
+			set_house_head = root
+		}
+	}
+	$PROGENITOR$.dynasty ?= { add_dynasty_prestige = 10000 }
 }

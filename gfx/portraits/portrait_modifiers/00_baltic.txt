@@ -1,0 +1,31 @@
+﻿baltic_chars = {
+    usage = game
+	selection_behavior = max
+	priority = 3
+
+    82198_algimantas_lithuanians = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_07
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_northern_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				exists = this
+				exists = character:82198
+				this = character:82198
+			}
+		}
+	}
+}

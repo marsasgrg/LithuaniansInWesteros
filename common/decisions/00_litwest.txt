@@ -1,4 +1,4 @@
-claim_palemonid_legacy = {
+﻿claim_palemonid_legacy = {
     picture = {
 		reference = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
 	}
@@ -7,10 +7,13 @@ claim_palemonid_legacy = {
 	ai_check_interval = 60
 
     is_shown = {       
-        NOT={
-            house = character:82140.house
-             exists = father
-        }
+        character:82140.house = {
+			any_house_member = {
+				count <= 0
+				is_alive = yes
+			}
+		}
+        
 		is_playable_character = yes
 		exists = house
 		exists = house.house_head
@@ -31,17 +34,18 @@ claim_palemonid_legacy = {
     effect = {
         set_father = character:82140
         set_house  = character:82140.house
-        save_scope_as = tree_root
-        find_descendants_effect = yes
-		every_held_title = { set_coa = character:82140.house.coa }
-        if = {
-			limit = {
-				government_allows = administrative
-				highest_held_title_tier >= tier_duchy
-			}
-			create_noble_family_effect = yes
-			change_influence = major_influence_gain
+        join_progenitor_dynasty_scripted_effect = {
+			PROGENITOR = character:82140
 		}
+		every_held_title = { set_coa = character:82140.house }
+        # if = {
+		# 	limit = {
+		# 		government_allows = administrative
+		# 		highest_held_title_tier >= tier_duchy
+		# 	}
+		# 	create_noble_family_effect = yes
+		# 	change_influence = major_influence_gain
+		# }
     }
 }
 
