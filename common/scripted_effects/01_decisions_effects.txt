@@ -8,7 +8,7 @@
     }
 }
 
-join_progenitor_dynasty_scripted_effect = {
+join_progenitor_dynasty_scripted_effect = { # from ek2's reman decision
 	custom_tooltip = house_members_switch_dynasty
 	dynasty = {
 		# Ancestors
@@ -17,7 +17,7 @@ join_progenitor_dynasty_scripted_effect = {
 			limit = {
 				NOT = {
 					any_in_list = {
-						list = cyrodiil_members
+						list = palemonid_members
 						this = prev
 					}
 				}
@@ -27,31 +27,31 @@ join_progenitor_dynasty_scripted_effect = {
 				limit = {
 					dynasty = root.dynasty
 				}
-				add_to_list = cyrodiil_members
+				add_to_list = palemonid_members
 				every_ancestor = {
 					even_if_dead = yes
 					limit = {
 						dynasty = root.dynasty
 					}
-					add_to_list = cyrodiil_members
+					add_to_list = palemonid_members
 					every_ancestor = {
 						even_if_dead = yes
 						limit = {
 							dynasty = root.dynasty
 						}
-						add_to_list = cyrodiil_members
+						add_to_list = palemonid_members
 						every_ancestor = {
 							even_if_dead = yes
 							limit = {
 								dynasty = root.dynasty
 							}
-							add_to_list = cyrodiil_members
+							add_to_list = palemonid_members
 							every_ancestor = {
 								even_if_dead = yes
 								limit = {
 									dynasty = root.dynasty
 								}
-								add_to_list = cyrodiil_members
+								add_to_list = palemonid_members
 							}
 						}
 					}
@@ -65,27 +65,27 @@ join_progenitor_dynasty_scripted_effect = {
 			limit = {
 				NOT = {
 					any_in_list = {
-						list = cyrodiil_members
+						list = palemonid_members
 						this = prev
 					}
 				}
 			}
-			add_to_list = cyrodiil_members
+			add_to_list = palemonid_members
 		}
 	}
 	dynasty.dynasty_founder = { set_father = $PROGENITOR$ }
 	hidden_effect = {
 		every_in_list = {
-			list = cyrodiil_members
+			list = palemonid_members
 			set_house = $PROGENITOR$.house
 		}
 	}
 	set_house = $PROGENITOR$.house
-	$PROGENITOR$.house ?= {
-		if = {
-			limit = { NOT = { house_head = root } }
-			set_house_head = root
-		}
-	}
-	$PROGENITOR$.dynasty ?= { add_dynasty_prestige = 10000 }
+	# $PROGENITOR$.house ?= {
+	# 	if = {
+	# 		limit = { NOT = { house_head = root } }
+	# 		set_house_head = root
+	# 	}
+	# }
+	# $PROGENITOR$.dynasty ?= { add_dynasty_prestige = 10000 }
 }
