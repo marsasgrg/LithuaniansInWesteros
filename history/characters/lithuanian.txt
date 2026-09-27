@@ -357,7 +357,7 @@
 	religion = "old_gods_btw_fnf"
 	culture = "lithuanian"
 	trait = bastard_founder
-	father = 82198
+	father = 82194
 	8256.1.1 = {
 		birth = "8256.1.1"
 	}

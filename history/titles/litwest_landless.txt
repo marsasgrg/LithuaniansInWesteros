@@ -19,10 +19,19 @@
     8361.1.1 = {
 		holder = 125310
 	}
-    8388.1.1 = {
+	8388.1.1 = {
+		holder = 125311
+	}
+	8391.1.1 = {
+		holder = 125314
+	}
+	8397.1.2 = {
 		holder = 472352
 	}
 	8401.1.1 = {
+		holder = 125315
+	}
+	8422.1.1 = {
 		holder = 473500
 	}
 }
@@ -94,21 +103,8 @@ d_laamp_lithuanians = {
 		holder = 125310
 	}
 	8388.1.1 = {
-		holder = 125311
+		holder = 0
 	}
-	8391.1.1 = {
-		holder = 125314
-	}
-	8397.1.2 = {
-		holder = 472352
-	}
-	8401.1.1 = {
-		holder = 125315
-	}
-	8422.1.1 = {
-		holder = 473500
-	}
-
 }
 
 d_laamp_samogitia = {
@@ -134,63 +130,41 @@ d_laamp_samogitia = {
 	}
 	8036.1.1 = {
 		holder = 82146 #Borkus son of Palemon
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82146 COA_KEY = 9117 }
 	}
 	8044.1.1 = {
 		holder = 82153 #Gimbutas son of Kunos
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82153 COA_KEY = 9117 }
 	}
 	8068.1.1 = {
 		holder = 82166 #Montvilas son of Gimbutas
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82166 COA_KEY = 9117 }
 	}
 	8095.1.1 = {
 		holder = 82170 #Vykintas son of Montvilas
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82170 COA_KEY = 9117 }
 	}
 	8129.1.1 = {
 		holder = 82175 #Zivinbudas son of Vykintas
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82175 COA_KEY = 9117 }
 	}
 	8170.1.1 = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82180 COA_KEY = 9117 }
 	}
 	8194.1.1 = {
 		holder = 82182 # ventaragis son of Utenis
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82182 COA_KEY = 9117 }
 	}
 	8199.1.1 = {
 		holder = 82200 #Skirmantas son of  ventaragis
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82200 COA_KEY = 9117 }
 	}
 	8230.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
+        agot_create_personal_coa_for_historical_ai = { ACTOR = character:82204 COA_KEY = 9117 }
 	}
 	8275.1.1 = {
-		holder = 82198 #Algimantas son of Liubartas
+		holder = 0
 	}
-	8344.1.1 = {
-		holder = 125301 #Mindaugas son of Rimgaudas
-	}
-	8369.9.12 = {
-		holder = 125302
-	}
-	8370.1.2 = {
-		holder = 125303
-	}
-	8373.4.23 = {
-		holder = 125310
-	}
-	8388.1.2 = {
-		holder = 125311
-	}
-	8391.1.2 = {
-		holder = 125314
-	}
-	8397.1.2 = {
-		holder = 472352
-	}
-	8401.1.2 = {
-		holder = 125315
-	}
-	8422.1.1 = {
-		holder = 473500
-	}
-	8422.1.2 = {
-		holder = 473508
-	}
-
 }
