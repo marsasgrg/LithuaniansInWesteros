@@ -91,3 +91,8 @@ e_commonwealth = {
 		instance = { position = { 0.652 0.32 } scale = { 0.18 0.18 }  }
 	}
 }
+
+
+d_laamp_lithuanians = 9116
+d_laamp_samogitians = 9117
+d_laamp_three_pillars = gediminid

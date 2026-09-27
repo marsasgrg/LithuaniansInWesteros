@@ -1,0 +1,196 @@
+﻿d_laamp_three_pillars = { # Gök-Börü Kılıçları
+	8272.1.1 = {
+		liege = 0
+		holder = 228012
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+			destroy_landless_title_no_dlc_effect = { DATE = 8272.1.2 }
+		}
+	}
+    8306.1.2 = {
+		holder = 125308
+	}
+    8336.1.1 = {
+		holder = 125309
+	}
+    8361.1.1 = {
+		holder = 125310
+	}
+    8388.1.1 = {
+		holder = 472352
+	}
+	8401.1.1 = {
+		holder = 473500
+	}
+}
+
+d_laamp_lithuanians = {
+	7856.1.1 = {
+		liege = 0
+		holder = 194113
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+			destroy_landless_title_no_dlc_effect = { DATE = 7856.1.2 }
+		}
+	}
+	7905.1.1 = {
+		holder = 194114
+	}
+	7928.1.1 = {
+		holder = 194115
+	}
+	7956.1.1 = {
+		holder = 82140 #Palemon
+	}
+	7996.1.1 = {
+		holder = 82144 #Kunos son of Palemon
+	}
+	8041.1.1 = {
+		holder = 82152 #Kernius son of Kunos
+	}
+	8068.1.1 = {
+		holder = 82165 #Kiras son of Daumantis
+	}
+	8073.1.1 = {
+		holder = 82176 #Kukovaitis son of Kiras
+	}
+	8127.1.1 = {
+		holder = 82178 #Utenis son of Kukovaitis
+	}
+	8160.1.1 = {
+		holder = 82182 # ventaragis son of Utenis
+	}
+	8199.1.1 = {
+		holder = 82200 #Skirmantas son of  ventaragis
+	}
+	8230.1.1 = {
+		holder = 82203 #Koliginas
+	}
+	8273.1.1 = {
+		holder = 82198 #Algimantas son of Liubartas
+	}
+	8316.1.1 = {
+		holder = 125300 #Rimgaudas son of Algimantas
+	}
+	8319.1.1 = {
+		holder = 125305 #Dausprungas son of Rimgaudas
+	}
+	8342.1.2 = {
+		holder = 125301 #Mindaugas
+	}
+	8369.9.12 = {
+		holder = 125302
+	}
+	8370.1.2 = {
+		holder = 125303
+	}
+	8373.4.23 = {
+		holder = 125310
+	}
+	8388.1.1 = {
+		holder = 125311
+	}
+	8391.1.1 = {
+		holder = 125314
+	}
+	8397.1.2 = {
+		holder = 472352
+	}
+	8401.1.1 = {
+		holder = 125315
+	}
+	8422.1.1 = {
+		holder = 473500
+	}
+
+}
+
+d_laamp_samogitia = {
+	7933.1.1 = {
+        liege = 0
+		holder = 6893
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+			destroy_landless_title_no_dlc_effect = { DATE = 7933.1.2 }
+		}
+	}
+	7956.1.1 = {
+		holder = 82141
+	}
+	7996.1.1 = {
+		holder = 82149
+	}
+	8016.1.1 = {
+		holder = 82150
+	}
+	8036.1.1 = {
+		holder = 82146 #Borkus son of Palemon
+	}
+	8044.1.1 = {
+		holder = 82153 #Gimbutas son of Kunos
+	}
+	8068.1.1 = {
+		holder = 82166 #Montvilas son of Gimbutas
+	}
+	8095.1.1 = {
+		holder = 82170 #Vykintas son of Montvilas
+	}
+	8129.1.1 = {
+		holder = 82175 #Zivinbudas son of Vykintas
+	}
+	8170.1.1 = {
+		holder = 82180 #Kukovaitis son of Zivinbudas
+	}
+	8194.1.1 = {
+		holder = 82182 # ventaragis son of Utenis
+	}
+	8199.1.1 = {
+		holder = 82200 #Skirmantas son of  ventaragis
+	}
+	8230.1.1 = {
+		holder = 82204 #Trabus son of Skirmantas
+	}
+	8275.1.1 = {
+		holder = 82198 #Algimantas son of Liubartas
+	}
+	8344.1.1 = {
+		holder = 125301 #Mindaugas son of Rimgaudas
+	}
+	8369.9.12 = {
+		holder = 125302
+	}
+	8370.1.2 = {
+		holder = 125303
+	}
+	8373.4.23 = {
+		holder = 125310
+	}
+	8388.1.2 = {
+		holder = 125311
+	}
+	8391.1.2 = {
+		holder = 125314
+	}
+	8397.1.2 = {
+		holder = 472352
+	}
+	8401.1.2 = {
+		holder = 125315
+	}
+	8422.1.1 = {
+		holder = 473500
+	}
+	8422.1.2 = {
+		holder = 473508
+	}
+
+}
